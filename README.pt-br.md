@@ -1,8 +1,11 @@
 <div align="center">
-  <img width="100%" src="./assets/banner-codie.svg" />
+
+# Fernando Maziero
+
+### Founder & CEO da Codie • Developer • Construtor de Produtos AI-First
+
 </div>
 
-<br/>
 
 <div align="center">
 
@@ -11,14 +14,6 @@
 </div>
 
 ---
-
-<div align="center">
-
-# Fernando Maziero
-
-### Founder & CEO da Codie • Developer • Construtor de Produtos AI-First
-
-</div>
 
 ## 👋 Sobre mim
 
