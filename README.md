@@ -59,6 +59,22 @@ I work across the full product journey: from **idea validation** and **UX direct
 
 ---
 
+## 💜 Lovable Enthusiast
+
+I’m also a **Lovable enthusiast** and I’ve been developing many projects with Lovable as part of my AI-first workflow, especially for:
+
+- UX/UI prototyping
+- product concept validation
+- screen flow structuring
+- faster idea-to-interface cycles
+
+👉 **My Lovable referral link:**  
+https://lovable.dev/invite/1XUK69Y
+
+---
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -102,6 +118,7 @@ AI curation platform with tools, prompts, and playbooks to help teams move faste
 
 ## 🌍 Connect
 
+
 <div align="center">
 
 <a href="https://www.codie.com.br" target="_blank">
@@ -116,8 +133,12 @@ AI curation platform with tools, prompts, and playbooks to help teams move faste
 <a href="https://www.instagram.com/fernandomaziero/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-@fernandomaziero-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+<a href="https://lovable.dev/invite/1XUK69Y" target="_blank">
+  <img src="https://img.shields.io/badge/Lovable-Referral%20Link-7C3AED?style=for-the-badge" />
+</a>
 
 </div>
+
 
 ---
 
