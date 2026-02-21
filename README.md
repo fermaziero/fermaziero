@@ -1,16 +1,4 @@
-<div align="center">
-  <img width="100%" src="./assets/banner-codie.svg" />
-</div>
 
-<br/>
-
-<div align="center">
-
-[![README PT-BR](https://img.shields.io/badge/README-PT--BR-009C3B?style=for-the-badge)](./README.pt-BR.md)
-
-</div>
-
----
 
 <div align="center">
 
@@ -19,6 +7,14 @@
 ### Founder & CEO at Codie • Developer • AI-First Product Builder
 
 </div>
+
+<div align="center">
+
+[![README PT-BR](https://img.shields.io/badge/README-PT--BR-009C3B?style=for-the-badge)](./README.pt-BR.md)
+
+</div>
+
+---
 
 ## 👋 About Me
 
