@@ -59,6 +59,22 @@ Atuo na jornada completa do produto: da **validação da ideia** e **direção d
 
 ---
 
+## 💜 Entusiasta do Lovable
+
+Também sou **entusiasta do Lovable** e venho desenvolvendo muitos projetos com a ferramenta para acelerar:
+
+- prototipação de UX/UI
+- validação de conceito de produto
+- estruturação de fluxos de telas
+- ciclos mais rápidos de ideia → interface
+
+Hoje ele faz parte importante do meu fluxo AI-first de criação de produtos.
+
+👉 **Meu link de referral do Lovable:**  
+**https://lovable.dev/invite/1XUK69Y**
+
+---
+
 ## 🛠️ Stack Principal
 
 <div align="center">
@@ -113,6 +129,9 @@ Plataforma de curadoria de IA com ferramentas, prompts e playbooks para acelerar
 </a>
 <a href="https://www.instagram.com/fernandomaziero/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-@fernandomaziero-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://lovable.dev/invite/1XUK69Y" target="_blank">
+  <img src="https://img.shields.io/badge/Lovable-Referral%20Link-7C3AED?style=for-the-badge" />
 </a>
 
 </div>
