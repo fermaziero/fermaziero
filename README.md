@@ -198,10 +198,10 @@ You’ll often find here a mix of:
   <a href="https://www.harvory.com.br" target="_blank">
     <img src="https://img.shields.io/badge/Website-Harvory-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/fernando-maziero/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Fernando%20Maziero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com" target="_blank">
+  <a href="https://www.instagram.com/fernandomaziero/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@fermaziero-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
