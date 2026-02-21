@@ -6,11 +6,23 @@
 
 ### Founder & CEO at Codie • Developer • AI-First Product Builder
 
-</div>
+<p>
+  <a href="https://www.codie.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Codie-Software%20House-111827?style=for-the-badge" />
+  </a>
+  <a href="https://www.harvory.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Harvory-AI%20Curation%20%26%20Prompts-0f172a?style=for-the-badge" />
+  </a>
+  <img src="https://img.shields.io/badge/Brazil-PR%20%7C%20SC-065f46?style=for-the-badge" />
+</p>
 
-<div align="center">
-
-[![README PT-BR](https://img.shields.io/badge/README-PT--BR-009C3B?style=for-the-badge)](./README.pt-BR.md)
+<p>
+  <img src="https://img.shields.io/badge/.NET-C%23-blueviolet?style=flat-square&logo=dotnet" />
+  <img src="https://img.shields.io/badge/React-Next.js-111827?style=flat-square&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/SQL%20Server-Data%20%26%20Architecture-red?style=flat-square&logo=microsoftsqlserver" />
+  <img src="https://img.shields.io/badge/AI-Products%20%26%20Workflows-1d4ed8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Scalable%20Digital%20Products-0f766e?style=flat-square" />
+</p>
 
 </div>
 
