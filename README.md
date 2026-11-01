@@ -1,115 +1,91 @@
-
-
 <div align="center">
 
 # Fernando Maziero
 
-### Founder & CEO at Codie • Developer • AI-First Product Builder
+### Consultoria e formação em IA para empresas, equipes e profissionais
+
+Fundador da **1Advisor** · Tech Advisor · Mentor e palestrante
 
 <p>
-  <a href="https://www.codie.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Codie-Software%20House-111827?style=for-the-badge" />
-  </a>
-  <a href="https://www.harvory.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Harvory-AI%20Curation%20%26%20Prompts-0f172a?style=for-the-badge" />
-  </a>
-  <img src="https://img.shields.io/badge/Brazil-PR%20%7C%20SC-065f46?style=for-the-badge" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/.NET-C%23-blueviolet?style=flat-square&logo=dotnet" />
-  <img src="https://img.shields.io/badge/React-Next.js-111827?style=flat-square&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/SQL%20Server-Data%20%26%20Architecture-red?style=flat-square&logo=microsoftsqlserver" />
-  <img src="https://img.shields.io/badge/AI-Products%20%26%20Workflows-1d4ed8?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Scalable%20Digital%20Products-0f766e?style=flat-square" />
+<a href="https://oneadvisor.com.br" target="_blank">
+<img src="https://img.shields.io/badge/1Advisor-Consultoria%20e%20Forma%C3%A7%C3%A3o%20em%20IA-111827?style=for-the-badge" />
+</a>
+<a href="https://oneadvisor.com.br/#edicao" target="_blank">
+<img src="https://img.shields.io/badge/Opera%C3%A7%C3%A3o%20IA-Imers%C3%A3o%20para%20Empres%C3%A1rios-0f172a?style=for-the-badge" />
+</a>
+<img src="https://img.shields.io/badge/Brasil-PR%20%7C%20SC-065f46?style=for-the-badge" />
 </p>
 
 </div>
 
 ---
 
-## 👋 About Me
+## Sobre
 
-I’m **Fernando Maziero**, founder and CEO of **Codie** — building digital products with a mix of:
+Há mais de 16 anos trabalho com tecnologia, marketing e automação. Hoje meu foco é **transformar inteligência artificial em capacidade real de negócio**: ajudo empresários, equipes e profissionais a decidir onde aplicar IA, o que priorizar e como levar isso para a rotina de quem vai usar.
 
-- business vision
-- software engineering
-- product strategy
-- AI-first execution
-
-I work across the full product journey: from **idea validation** and **UX direction** to **architecture**, **delivery**, and **continuous evolution**.
+Sou fundador de empresas de software, marketing e plataforma digital, então a conversa não fica na teoria. Ela parte da realidade de cada negócio, da escolha das aplicações até o aprendizado de quem vai operá-las, incluindo o uso de ferramentas e agentes no dia a dia.
 
 ---
 
-## 🚀 What I Build
+## 1Advisor
 
-### Product & Business Systems
-- SaaS platforms
-- Admin panels / backoffice systems
-- CRM and operations systems
-- Marketplaces and portals
-- Subscription and billing products
-- Multi-tenant platforms
+Consultoria, formação e experiências práticas de IA aplicada ao trabalho e aos negócios.
 
-### Engineering
-- .NET / C# APIs
-- React / Next.js applications
-- React Native mobile apps
-- SQL Server data modeling
-- Auth / permissions / entitlements
-- Integrations (payments, messaging, CRMs, etc.)
+| Formato | Para quê |
+| --- | --- |
+| **Consultoria em IA** | Avaliar onde aplicar IA e quais iniciativas priorizar no negócio |
+| **Treinamentos in-company** | Capacitar equipes para usar IA nas atividades de cada área |
+| **Mentorias** | Orientação para dúvidas, aplicações e decisões |
+| **Cursos e capacitações** | Ferramentas e prática para ampliar o repertório |
+| **Palestras** | Conversas sobre tecnologia, negócios e trabalho para o público do seu evento |
+| **Operação IA** | Imersão presencial de Inteligência Artificial para empresários |
 
-### AI-First Workflows
-- AI-powered internal tooling
-- Prompt systems and playbooks
-- AI curation platforms
-- Fast prototyping with production mindset
+[Solicitar uma proposta](https://oneadvisor.com.br) · [Conhecer minha trajetória](https://oneadvisor.com.br/fernando-maziero)
 
----
+### Operação IA
 
-## 💜 Lovable Enthusiast
+Imersão presencial de um dia inteiro para empresários, com participantes trazendo desafios reais das próprias empresas. Ferramentas exploradas: ChatGPT, Claude, Gemini, Lovable, Perplexity e Codex.
 
-I’m also a **Lovable enthusiast** and I’ve been developing many projects with Lovable as part of my AI-first workflow, especially for:
+| Edição | Data | Horário |
+| --- | --- | --- |
+| Londrina | Sábado, 05 de dezembro de 2026 | 08h às 18h |
+| Curitiba | Sexta-feira, 11 de dezembro de 2026 | 08h às 18h |
 
-- UX/UI prototyping
-- product concept validation
-- screen flow structuring
-- faster idea-to-interface cycles
-
-👉 **My Lovable referral link:**  
-https://lovable.dev/invite/1XUK69Y
+[Conhecer a Operação IA](https://oneadvisor.com.br/#edicao)
 
 ---
 
+## Empresas
+
+| | |
+| --- | --- |
+| **[1Advisor](https://oneadvisor.com.br)** | Consultoria, formação e experiências práticas de IA aplicada ao trabalho e aos negócios. |
+| **[Codie](https://www.codie.com.br)** | Software house: sites, e-commerces, aplicativos e sistemas. |
+| **Amazity** | Agência de marketing: branding, mídias sociais, tráfego pago e design. |
+| **[Harvory](https://www.harvory.com.br)** | Plataforma que conecta site, conteúdo, SEO, formulários e CRM, com atendimento por IA. Publicar é o começo. |
+
 ---
 
-## 🛠️ Tech Stack
+## Base técnica
+
+Construo software em produção, e isso é o que sustenta o que ensino sobre IA.
+
+- **Produtos e sistemas:** SaaS multi-tenant, painéis administrativos, CRM e sistemas de operação, marketplaces e portais, cobrança e assinaturas.
+- **Engenharia:** APIs em .NET / C#, aplicações React / Next.js, apps React Native, modelagem em SQL Server, autenticação e permissões, integrações com pagamentos, mensageria e CRMs.
+- **IA aplicada:** ferramentas internas com IA, agentes e automações, prototipação rápida com mentalidade de produção. Uso o Lovable para validar conceitos e fluxos de tela em ciclos curtos ([meu link de convite](https://lovable.dev/invite/1XUK69Y)).
 
 <div align="center">
 
-### Core
 <img src="https://skillicons.dev/icons?i=cs,dotnet,react,nextjs,ts,js,html,css" />
-
-### Infra / Data / Tools
+<br/>
 <img src="https://skillicons.dev/icons?i=azure,vercel,supabase,cloudflare,git,github" />
 
 </div>
 
 ---
 
-## 🏗️ Ecosystem
-
-### **Codie**
-Software house focused on scalable digital solutions across web, mobile, systems, and AI-driven execution.
-
-### **Harvory**
-AI curation platform with tools, prompts, and playbooks to help teams move faster with clarity.
-
----
-
-## 📈 GitHub Stats
-
-> Replace `fermaziero` below only if your GitHub username changes.
+## GitHub
 
 <div align="center">
 
@@ -124,36 +100,32 @@ AI curation platform with tools, prompts, and playbooks to help teams move faste
 
 ---
 
-## 🌍 Connect
-
+## Contato
 
 <div align="center">
 
-<a href="https://www.codie.com.br" target="_blank">
-  <img src="https://img.shields.io/badge/Codie-Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="https://www.harvory.com.br" target="_blank">
-  <img src="https://img.shields.io/badge/Harvory-Website-0B1220?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<a href="https://oneadvisor.com.br" target="_blank">
+<img src="https://img.shields.io/badge/1Advisor-Site-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/fernando-maziero/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Fernando%20Maziero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Fernando%20Maziero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/fernandomaziero/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-@fernandomaziero-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-@fernandomaziero-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://lovable.dev/invite/1XUK69Y" target="_blank">
-  <img src="https://img.shields.io/badge/Lovable-Referral%20Link-7C3AED?style=for-the-badge" />
+<a href="https://www.codie.com.br" target="_blank">
+<img src="https://img.shields.io/badge/Codie-Site-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://www.harvory.com.br" target="_blank">
+<img src="https://img.shields.io/badge/Harvory-Site-0B1220?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 </div>
-
 
 ---
 
 <div align="center">
 
-> **Building software, products and AI systems with business clarity, technical depth and execution speed.**
-
-### ⚡ Less time searching. More time creating.
+> **Transformando inteligência artificial em capacidade real de negócio.**
 
 </div>
