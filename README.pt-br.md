@@ -89,11 +89,6 @@ Construo software em produção, e isso é o que sustenta o que ensino sobre IA.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fermaziero&show_icons=true&hide_border=true&title_color=ffffff&text_color=e5e7eb&icon_color=60a5fa&bg_color=0d1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fermaziero&layout=compact&hide_border=true&title_color=ffffff&text_color=e5e7eb&bg_color=0d1117" />
-
-<br/>
-
 <img width="80%" src="https://streak-stats.demolab.com?user=fermaziero&hide_border=true&background=0D1117&ring=60A5FA&fire=60A5FA&currStreakLabel=E5E7EB&sideNums=E5E7EB&currStreakNum=FFFFFF&dates=9CA3AF&sideLabels=E5E7EB" />
 
 </div>
