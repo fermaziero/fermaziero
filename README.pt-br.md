@@ -20,7 +20,7 @@ Business Tech Company · Tecnologia, software e IA aplicada a negócios
 
 ---
 
-## Sobre
+## <img src="https://api.iconify.design/lucide/user.svg?color=%2360a5fa&height=22" width="22" height="22" align="absmiddle" /> Sobre
 
 Sou fundador e CEO da **Codie**, uma Business Tech Company com quase 13 anos de história e referência em tecnologia no Sul do Brasil. Criamos sites, software e aplicações de IA para empresas, a partir de Londrina, Curitiba e Florianópolis, com presença nos Estados Unidos pela Codie USA, em Orlando.
 
@@ -28,77 +28,88 @@ Em 2026 fundei a **1Advisor**, que leva essa experiência de quem constrói para
 
 ---
 
-## Codie
+## <img src="https://api.iconify.design/lucide/building-2.svg?color=%2360a5fa&height=22" width="22" height="22" align="absmiddle" /> Codie
 
 **Business Tech Company.** Criamos sites, software e aplicações de IA para empresas.
 
-| Quase 13 anos | Mais de 1.287 | 4 cidades, 2 países |
+| <img src="https://api.iconify.design/lucide/calendar-days.svg?color=%2360a5fa&height=16" width="16" height="16" align="absmiddle" /> Quase 13 anos | <img src="https://api.iconify.design/lucide/users.svg?color=%2360a5fa&height=16" width="16" height="16" align="absmiddle" /> Mais de 1.287 | <img src="https://api.iconify.design/lucide/map-pin.svg?color=%2360a5fa&height=16" width="16" height="16" align="absmiddle" /> 4 cidades, 2 países |
 | :---: | :---: | :---: |
 | de história em tecnologia | clientes atendidos | Londrina, Curitiba, Florianópolis e Orlando |
 
 | Frente | O que entregamos |
 | --- | --- |
-| **Presença digital** | Sites, landing pages e lojas virtuais |
-| **Apps e plataformas** | Aplicativos, sistemas, portais corporativos, plataformas digitais e plataformas de cursos |
-| **Equipe e tecnologia** | Consultoria tecnológica, implementação de IA, treinamentos in-company e outsourcing de tecnologia |
+| <img src="https://api.iconify.design/lucide/globe.svg?color=%2360a5fa&height=16" width="16" height="16" align="absmiddle" /> **Presença digital** | Sites, landing pages e lojas virtuais |
+| <img src="https://api.iconify.design/lucide/smartphone.svg?color=%2360a5fa&height=16" width="16" height="16" align="absmiddle" /> **Apps e plataformas** | Aplicativos, sistemas, portais corporativos, plataformas digitais e plataformas de cursos |
+| <img src="https://api.iconify.design/lucide/users-round.svg?color=%2360a5fa&height=16" width="16" height="16" align="absmiddle" /> **Equipe e tecnologia** | Consultoria tecnológica, implementação de IA, treinamentos in-company e outsourcing de tecnologia |
 
 Como trabalhamos:
 
-- **AI First:** IA integrada ao processo de entrega.
-- **Times sênior e multidisciplinares:** produto, design e engenharia, com squads montados sob demanda.
-- **Consultivo antes do código:** acompanhamento executivo e parceria de longo prazo.
-- **Segurança desde a arquitetura:** compliance, code review e sustentação com SLA.
+- <img src="https://api.iconify.design/lucide/bot.svg?color=%2360a5fa&height=16" width="16" height="16" align="absmiddle" /> **AI First:** IA integrada ao processo de entrega.
+- <img src="https://api.iconify.design/lucide/layers.svg?color=%2360a5fa&height=16" width="16" height="16" align="absmiddle" /> **Times sênior e multidisciplinares:** produto, design e engenharia, com squads montados sob demanda.
+- <img src="https://api.iconify.design/lucide/compass.svg?color=%2360a5fa&height=16" width="16" height="16" align="absmiddle" /> **Consultivo antes do código:** acompanhamento executivo e parceria de longo prazo.
+- <img src="https://api.iconify.design/lucide/shield-check.svg?color=%2360a5fa&height=16" width="16" height="16" align="absmiddle" /> **Segurança desde a arquitetura:** compliance, code review e sustentação com SLA.
 
 [Conhecer a Codie](https://www.codie.com.br)
 
 ---
 
-## 1Advisor
+## <img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%2360a5fa&height=22" width="22" height="22" align="absmiddle" /> 1Advisor
 
 Consultoria e formação em IA para empresas, equipes e profissionais: experiências práticas de IA aplicada ao trabalho e aos negócios.
 
 | Formato | Para quê |
 | --- | --- |
-| **Consultoria em IA** | Avaliar onde aplicar IA e quais iniciativas priorizar no negócio |
-| **Treinamentos in-company** | Capacitar equipes para usar IA nas atividades de cada área |
-| **Mentorias** | Orientação para dúvidas, aplicações e decisões |
-| **Cursos e capacitações** | Ferramentas e prática para ampliar o repertório |
-| **Palestras** | Conversas sobre tecnologia, negócios e trabalho para o público do seu evento |
-| **Operação IA** | Imersão presencial de Inteligência Artificial para empresários |
+| <img src="https://api.iconify.design/lucide/compass.svg?color=%2360a5fa&height=16" width="16" height="16" align="absmiddle" /> **Consultoria em IA** | Avaliar onde aplicar IA e quais iniciativas priorizar no negócio |
+| <img src="https://api.iconify.design/lucide/users.svg?color=%2360a5fa&height=16" width="16" height="16" align="absmiddle" /> **Treinamentos in-company** | Capacitar equipes para usar IA nas atividades de cada área |
+| <img src="https://api.iconify.design/lucide/handshake.svg?color=%2360a5fa&height=16" width="16" height="16" align="absmiddle" /> **Mentorias** | Orientação para dúvidas, aplicações e decisões |
+| <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%2360a5fa&height=16" width="16" height="16" align="absmiddle" /> **Cursos e capacitações** | Ferramentas e prática para ampliar o repertório |
+| <img src="https://api.iconify.design/lucide/mic.svg?color=%2360a5fa&height=16" width="16" height="16" align="absmiddle" /> **Palestras** | Conversas sobre tecnologia, negócios e trabalho para o público do seu evento |
+| <img src="https://api.iconify.design/lucide/rocket.svg?color=%2360a5fa&height=16" width="16" height="16" align="absmiddle" /> **Operação IA** | Imersão presencial de Inteligência Artificial para empresários |
 
 [Solicitar uma proposta](https://oneadvisor.com.br) · [Conhecer minha trajetória](https://oneadvisor.com.br/fernando-maziero)
 
-### Operação IA
+### <img src="https://api.iconify.design/lucide/rocket.svg?color=%2360a5fa&height=20" width="20" height="20" align="absmiddle" /> Operação IA
 
 Imersão presencial de um dia inteiro para empresários, com participantes trazendo desafios reais das próprias empresas. Ferramentas exploradas: ChatGPT, Claude, Gemini, Lovable, Perplexity e Codex.
 
+<div align="center">
+
+<img src="https://api.iconify.design/simple-icons/openai.svg?color=%2310a37f&height=36" width="32" height="32" title="ChatGPT" alt="ChatGPT" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg/icons/claude-color.svg" width="32" height="32" title="Claude" alt="Claude" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg/icons/gemini-color.svg" width="32" height="32" title="Gemini" alt="Gemini" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg/icons/lovable-color.svg" width="32" height="32" title="Lovable" alt="Lovable" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg/icons/perplexity-color.svg" width="32" height="32" title="Perplexity" alt="Perplexity" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg/icons/codex-color.svg" width="32" height="32" title="Codex" alt="Codex" />
+
+</div>
+
 | Edição | Data | Horário |
 | --- | --- | --- |
-| Londrina | Sábado, 05 de dezembro de 2026 | 08h às 18h |
-| Curitiba | Sexta-feira, 11 de dezembro de 2026 | 08h às 18h |
+| <img src="https://api.iconify.design/lucide/map-pin.svg?color=%2360a5fa&height=16" width="16" height="16" align="absmiddle" /> Londrina | Sábado, 05 de dezembro de 2026 | 08h às 18h |
+| <img src="https://api.iconify.design/lucide/map-pin.svg?color=%2360a5fa&height=16" width="16" height="16" align="absmiddle" /> Curitiba | Sexta-feira, 11 de dezembro de 2026 | 08h às 18h |
 
 [Conhecer a Operação IA](https://oneadvisor.com.br/#edicao)
 
 ---
 
-## Empresas
+## <img src="https://api.iconify.design/lucide/blocks.svg?color=%2360a5fa&height=22" width="22" height="22" align="absmiddle" /> Empresas
 
 | | |
 | --- | --- |
-| **[Codie](https://www.codie.com.br)** | Business Tech Company: sites, software e aplicações de IA para empresas. |
-| **[1Advisor](https://oneadvisor.com.br)** | Consultoria e formação em IA aplicada ao trabalho e aos negócios. |
-| **Amazity** | Agência de marketing: branding, mídias sociais, tráfego pago e design. |
-| **[Harvory](https://www.harvory.com.br)** | Plataforma que conecta site, conteúdo, SEO, formulários e CRM, com atendimento por IA. Publicar é o começo. |
+| <img src="https://api.iconify.design/lucide/building-2.svg?color=%2360a5fa&height=16" width="16" height="16" align="absmiddle" /> **[Codie](https://www.codie.com.br)** | Business Tech Company: sites, software e aplicações de IA para empresas. |
+| <img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%2360a5fa&height=16" width="16" height="16" align="absmiddle" /> **[1Advisor](https://oneadvisor.com.br)** | Consultoria e formação em IA aplicada ao trabalho e aos negócios. |
+| <img src="https://api.iconify.design/lucide/megaphone.svg?color=%2360a5fa&height=16" width="16" height="16" align="absmiddle" /> **Amazity** | Agência de marketing: branding, mídias sociais, tráfego pago e design. |
+| <img src="https://api.iconify.design/lucide/panels-top-left.svg?color=%2360a5fa&height=16" width="16" height="16" align="absmiddle" /> **[Harvory](https://www.harvory.com.br)** | Plataforma que conecta site, conteúdo, SEO, formulários e CRM, com atendimento por IA. Publicar é o começo. |
 
 ---
 
-## Base técnica
+## <img src="https://api.iconify.design/lucide/code-xml.svg?color=%2360a5fa&height=22" width="22" height="22" align="absmiddle" /> Base técnica
 
 Na Codie construímos software em produção, e isso é o que sustenta o que ensino sobre IA.
 
-- **Produtos e sistemas:** SaaS multi-tenant, painéis administrativos, CRM e sistemas de operação, marketplaces e portais, cobrança e assinaturas.
-- **Engenharia:** APIs em .NET / C#, aplicações React / Next.js, apps React Native, modelagem em SQL Server, autenticação e permissões, integrações com pagamentos, mensageria e CRMs.
-- **IA aplicada:** ferramentas internas com IA, agentes e automações, prototipação rápida com mentalidade de produção. Uso o Lovable para validar conceitos e fluxos de tela em ciclos curtos ([meu link de convite](https://lovable.dev/invite/1XUK69Y)).
+- <img src="https://api.iconify.design/lucide/blocks.svg?color=%2360a5fa&height=16" width="16" height="16" align="absmiddle" /> **Produtos e sistemas:** SaaS multi-tenant, painéis administrativos, CRM e sistemas de operação, marketplaces e portais, cobrança e assinaturas.
+- <img src="https://api.iconify.design/lucide/server.svg?color=%2360a5fa&height=16" width="16" height="16" align="absmiddle" /> **Engenharia:** APIs em .NET / C#, aplicações React / Next.js, apps React Native, modelagem em SQL Server, autenticação e permissões, integrações com pagamentos, mensageria e CRMs.
+- <img src="https://api.iconify.design/lucide/bot.svg?color=%2360a5fa&height=16" width="16" height="16" align="absmiddle" /> **IA aplicada:** ferramentas internas com IA, agentes e automações, prototipação rápida com mentalidade de produção. Uso o Lovable para validar conceitos e fluxos de tela em ciclos curtos ([meu link de convite](https://lovable.dev/invite/1XUK69Y)).
 
 <div align="center">
 
@@ -110,7 +121,7 @@ Na Codie construímos software em produção, e isso é o que sustenta o que ens
 
 ---
 
-## GitHub
+## <img src="https://api.iconify.design/lucide/activity.svg?color=%2360a5fa&height=22" width="22" height="22" align="absmiddle" /> GitHub
 
 <div align="center">
 
@@ -120,7 +131,7 @@ Na Codie construímos software em produção, e isso é o que sustenta o que ens
 
 ---
 
-## Contato
+## <img src="https://api.iconify.design/lucide/mail.svg?color=%2360a5fa&height=22" width="22" height="22" align="absmiddle" /> Contato
 
 <div align="center">
 
