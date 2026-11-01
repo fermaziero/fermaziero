@@ -2,16 +2,16 @@
 
 # Fernando Maziero
 
-### Consultoria e formação em IA para empresas, equipes e profissionais
+### Founder & CEO da Codie · Fundador da 1Advisor
 
-Fundador da **1Advisor** · Tech Advisor · Mentor e palestrante
+Business Tech Company · Tecnologia, software e IA aplicada a negócios
 
 <p>
-<a href="https://oneadvisor.com.br" target="_blank">
-<img src="https://img.shields.io/badge/1Advisor-Consultoria%20e%20Forma%C3%A7%C3%A3o%20em%20IA-111827?style=for-the-badge" />
+<a href="https://www.codie.com.br" target="_blank">
+<img src="https://img.shields.io/badge/Codie-Business%20Tech%20Company-111827?style=for-the-badge" />
 </a>
-<a href="https://oneadvisor.com.br/#edicao" target="_blank">
-<img src="https://img.shields.io/badge/Opera%C3%A7%C3%A3o%20IA-Imers%C3%A3o%20para%20Empres%C3%A1rios-0f172a?style=for-the-badge" />
+<a href="https://oneadvisor.com.br" target="_blank">
+<img src="https://img.shields.io/badge/1Advisor-Consultoria%20e%20Forma%C3%A7%C3%A3o%20em%20IA-0f172a?style=for-the-badge" />
 </a>
 <img src="https://img.shields.io/badge/Brasil-PR%20%7C%20SC-065f46?style=for-the-badge" />
 </p>
@@ -22,15 +22,40 @@ Fundador da **1Advisor** · Tech Advisor · Mentor e palestrante
 
 ## Sobre
 
-Há mais de 16 anos trabalho com tecnologia, marketing e automação. Hoje meu foco é **transformar inteligência artificial em capacidade real de negócio**: ajudo empresários, equipes e profissionais a decidir onde aplicar IA, o que priorizar e como levar isso para a rotina de quem vai usar.
+Sou fundador e CEO da **Codie**, uma Business Tech Company com quase 13 anos de história e referência em tecnologia no Sul do Brasil. Criamos sites, software e aplicações de IA para empresas, a partir de Londrina, Curitiba e Florianópolis, com presença nos Estados Unidos pela Codie USA, em Orlando.
 
-Sou fundador de empresas de software, marketing e plataforma digital, então a conversa não fica na teoria. Ela parte da realidade de cada negócio, da escolha das aplicações até o aprendizado de quem vai operá-las, incluindo o uso de ferramentas e agentes no dia a dia.
+Em 2026 fundei a **1Advisor**, que leva essa experiência de quem constrói para a consultoria e a formação em IA: ajudo empresários, equipes e profissionais a **transformar inteligência artificial em capacidade real de negócio**. São mais de 16 anos em projetos de tecnologia, marketing e automação.
+
+---
+
+## Codie
+
+**Business Tech Company.** Criamos sites, software e aplicações de IA para empresas.
+
+| Quase 13 anos | Mais de 1.287 | 4 cidades, 2 países |
+| :---: | :---: | :---: |
+| de história em tecnologia | clientes atendidos | Londrina, Curitiba, Florianópolis e Orlando |
+
+| Frente | O que entregamos |
+| --- | --- |
+| **Presença digital** | Sites, landing pages e lojas virtuais |
+| **Apps e plataformas** | Aplicativos, sistemas, portais corporativos, plataformas digitais e plataformas de cursos |
+| **Equipe e tecnologia** | Consultoria tecnológica, implementação de IA, treinamentos in-company e outsourcing de tecnologia |
+
+Como trabalhamos:
+
+- **AI First:** IA integrada ao processo de entrega.
+- **Times sênior e multidisciplinares:** produto, design e engenharia, com squads montados sob demanda.
+- **Consultivo antes do código:** acompanhamento executivo e parceria de longo prazo.
+- **Segurança desde a arquitetura:** compliance, code review e sustentação com SLA.
+
+[Conhecer a Codie](https://www.codie.com.br)
 
 ---
 
 ## 1Advisor
 
-Consultoria, formação e experiências práticas de IA aplicada ao trabalho e aos negócios.
+Consultoria e formação em IA para empresas, equipes e profissionais: experiências práticas de IA aplicada ao trabalho e aos negócios.
 
 | Formato | Para quê |
 | --- | --- |
@@ -60,8 +85,8 @@ Imersão presencial de um dia inteiro para empresários, com participantes traze
 
 | | |
 | --- | --- |
-| **[1Advisor](https://oneadvisor.com.br)** | Consultoria, formação e experiências práticas de IA aplicada ao trabalho e aos negócios. |
-| **[Codie](https://www.codie.com.br)** | Software house: sites, e-commerces, aplicativos e sistemas. |
+| **[Codie](https://www.codie.com.br)** | Business Tech Company: sites, software e aplicações de IA para empresas. |
+| **[1Advisor](https://oneadvisor.com.br)** | Consultoria e formação em IA aplicada ao trabalho e aos negócios. |
 | **Amazity** | Agência de marketing: branding, mídias sociais, tráfego pago e design. |
 | **[Harvory](https://www.harvory.com.br)** | Plataforma que conecta site, conteúdo, SEO, formulários e CRM, com atendimento por IA. Publicar é o começo. |
 
@@ -69,7 +94,7 @@ Imersão presencial de um dia inteiro para empresários, com participantes traze
 
 ## Base técnica
 
-Construo software em produção, e isso é o que sustenta o que ensino sobre IA.
+Na Codie construímos software em produção, e isso é o que sustenta o que ensino sobre IA.
 
 - **Produtos e sistemas:** SaaS multi-tenant, painéis administrativos, CRM e sistemas de operação, marketplaces e portais, cobrança e assinaturas.
 - **Engenharia:** APIs em .NET / C#, aplicações React / Next.js, apps React Native, modelagem em SQL Server, autenticação e permissões, integrações com pagamentos, mensageria e CRMs.
@@ -99,17 +124,17 @@ Construo software em produção, e isso é o que sustenta o que ensino sobre IA.
 
 <div align="center">
 
+<a href="https://www.codie.com.br" target="_blank">
+<img src="https://img.shields.io/badge/Codie-Site-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 <a href="https://oneadvisor.com.br" target="_blank">
-<img src="https://img.shields.io/badge/1Advisor-Site-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/1Advisor-Site-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/fernando-maziero/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Fernando%20Maziero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/fernandomaziero/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-@fernandomaziero-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.codie.com.br" target="_blank">
-<img src="https://img.shields.io/badge/Codie-Site-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <a href="https://www.harvory.com.br" target="_blank">
 <img src="https://img.shields.io/badge/Harvory-Site-0B1220?style=for-the-badge&logo=googlechrome&logoColor=white" />
